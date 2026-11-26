@@ -1,5 +1,9 @@
 # Sum up 26 November's world news in one image
 
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/robertyygu-lab/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/robertyygu-lab/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+
 make.fun bounty: https://make.fun/bounty/news-image-20261126
 — $100 USDC total, 50 places paid (1st $20, 2nd $12, 3rd $6, 4th–10th $2,
 11th–50th $1.20). Deadline: Sat 28 Nov 2026, 11:00 AM AEDT
